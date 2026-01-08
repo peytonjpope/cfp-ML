@@ -10,8 +10,7 @@ A machine-learning based predictor for College Football Playoff outcomes built i
 - Generates probabilities and comparative insights for playoff teams  
 
 ## Notebook
-View and run the full notebook on Kaggle:  
-[Link to Notebook](https://www.kaggle.com/code/peytonpope/college-football-playoff-predictor)
+View and run the full notebook on Kaggle: [Link to Notebook](https://www.kaggle.com/code/peytonpope/college-football-playoff-predictor)
 
 ## Data Source
 Sports Reference College Football Data: [sports-reference.com](https://www.sports-reference.com/cfb/)
